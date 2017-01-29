@@ -1,0 +1,223 @@
+.myformat{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.loginHeader{
+    position: relative;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: top;
+    text-align: center;
+    color: #000000;
+    font: 300 72px/72px 'Open Sans', sans-serif;
+    webkit-text-size-adjust: none;
+}
+
+.loginLabel{
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 3px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: top;
+    webkit-text-size-adjust: none;
+    font-family: 'Open Sans', sans-serif;
+    font: 14px/24px Georgia, 'Times New Roman', Times, serif;
+    line-height: 1;
+}
+
+.mybtn{
+    margin-left: auto;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    font-weight: normal;
+    white-space: nowrap;
+    margin: 5px 60px 0 0;
+    width: 139px;
+    border: 1px solid #000000;
+    background: #ffffff;
+    display: inline-block;
+    font: 24px/46px 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    color: #000000;
+    transition: 0.3s all ease;
+    padding: 0;
+}
+
+.mybtn:hover{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.myErrorMessage{
+    height: 20px;
+    position: absolute;
+    right: 3px;
+    top: 2px;
+    color: #fa5555;
+    height: 0;
+    font-size: 11px;
+    -webkit-transition: 0.3s ease-in height;
+    transition: 0.3s ease-in height;
+    z-index: 99;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: top;
+    webkit-text-size-adjust: none;  
+    font-family: 'Open Sans', sans-serif;
+    font: 14px/24px Georgia, 'Times New Roman', Times, serif;
+    line-height: 1;
+}
+
+.my-container{
+    margin-bottom: 150px;
+    position: static;
+}
+
+.nav-menu{
+    background-color: #d94d3a;
+    margin: 1%;
+    padding: 10px;
+    width:150px;
+    color: #ffffff;
+    border-radius: 8px;
+    margin-right: auto;
+    float: left;
+}
+
+.nav-menu li{
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.head{
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    padding-bottom: 5px;
+    margin-bottom: 8px;
+}
+
+.nav-menu li a{
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.right-side{
+    background-color: #00b3ee;
+    margin-left: 15%;
+    padding-top: 1%;
+}
+
+.right-side fatores-internos title{
+    padding: 0px;
+    margin: 0px;
+    text-align: left;
+}
+
+.personal-menu{
+    color: #ffffff;
+}
+
+.fatores-internos header{
+    background-color: #474747;
+}
+
+#conteudo{
+    margin-left: 20px;
+}
+
+#submit-fator-interno{
+    margin-left: 20px;
+}
+
+#submit-fator-externo{
+    margin-left: 20px;
+}
+
+.fatores-internos #conteudo theader{
+    margin-right: 200px;
+}
+
+.fatores-esternos #conteudo theader{
+    margin-right: 200px;
+}
+
+#conteudo td{
+    margin: 20px;
+}
+
+.matriz{
+    margin: auto;
+    
+}
+
+.matriz thead th{
+    background-color: #555;
+}
+
+.matriz, thead th, tbody td{
+    border: solid 1px;
+    text-align: center;
+}
+
+.oportunidade{
+    min-width: 300px;
+    width: 300px;
+    background-color: #009900;
+}
+
+.ameaca{
+    min-width: 300px;
+    width: 300px;
+    background-color: #990000;
+}
+
+.head-men{
+    margin-left: 550px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.head-men a{
+    color: #ffffff;
+    border: solid 1px #000;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    background-color: #000;
+}
+
+.fatores-internos table{
+    border: solid 1px;
+    text-align: center;
+    height: 100px;
+    width: 500px;
+    align-content: center;
+    margin-bottom: 10px;
+}
+
+.fatores-externos table{
+    border: solid 1px;
+    text-align: center;
+    width: 500px;
+    align-content: center;
+    margin-bottom: 10px;
+}
+
+.tbl{
+    margin: auto;
+}
+
